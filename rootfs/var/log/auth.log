@@ -1,0 +1,175 @@
+Sep 26 06:25:02 lxcgui CRON[2157]: pam_unix(cron:session): session closed for user root
+Sep 26 07:17:01 lxcgui CRON[2450]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 26 07:17:01 lxcgui CRON[2450]: pam_unix(cron:session): session closed for user root
+Sep 26 08:17:01 lxcgui CRON[2889]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 26 08:17:01 lxcgui CRON[2889]: pam_unix(cron:session): session closed for user root
+Sep 26 08:56:25 lxcgui sudo:   ubuntu : TTY=pts/5 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/sbin/reboot
+Sep 26 08:56:25 lxcgui sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Sep 26 08:56:25 lxcgui sudo: pam_unix(sudo:session): session closed for user root
+Sep 26 08:56:30 lxcgui sshd[1673]: Server listening on 0.0.0.0 port 22.
+Sep 26 08:56:30 lxcgui sshd[1673]: Server listening on :: port 22.
+Sep 26 08:58:31 lxcgui sshd[1747]: Connection closed by 10.0.3.1 [preauth]
+Sep 26 08:58:34 lxcgui sshd[1749]: Accepted password for ubuntu from 10.0.3.1 port 36126 ssh2
+Sep 26 08:58:34 lxcgui sshd[1749]: pam_unix(sshd:session): session opened for user ubuntu by (uid=0)
+Sep 26 08:58:34 lxcgui sshd[1749]: pam_systemd(sshd:session): Failed to create session: No such file or directory
+Sep 26 09:00:43 lxcgui sshd[1677]: Server listening on 0.0.0.0 port 22.
+Sep 26 09:00:43 lxcgui sshd[1677]: Server listening on :: port 22.
+Sep 26 09:00:57 lxcgui sshd[1737]: Accepted password for ubuntu from 10.0.3.1 port 36178 ssh2
+Sep 26 09:00:57 lxcgui sshd[1737]: pam_unix(sshd:session): session opened for user ubuntu by (uid=0)
+Sep 26 09:00:57 lxcgui sshd[1737]: pam_systemd(sshd:session): Failed to create session: No such file or directory
+Sep 26 09:17:01 lxcgui CRON[1781]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 26 09:17:01 lxcgui CRON[1781]: pam_unix(cron:session): session closed for user root
+Sep 26 10:17:01 lxcgui CRON[1821]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 26 10:17:01 lxcgui CRON[1821]: pam_unix(cron:session): session closed for user root
+Sep 26 10:35:14 lxcgui sshd[1748]: Received disconnect from 10.0.3.1: 11: disconnected by user
+Sep 26 10:35:14 lxcgui sshd[1737]: pam_unix(sshd:session): session closed for user ubuntu
+Sep 26 11:17:01 lxcgui CRON[1849]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 26 11:17:01 lxcgui CRON[1849]: pam_unix(cron:session): session closed for user root
+Sep 26 12:17:01 lxcgui CRON[1883]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 26 12:17:01 lxcgui CRON[1883]: pam_unix(cron:session): session closed for user root
+Sep 26 13:17:01 lxcgui CRON[1922]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 26 13:17:01 lxcgui CRON[1922]: pam_unix(cron:session): session closed for user root
+Sep 26 14:17:01 lxcgui CRON[1949]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 26 14:17:01 lxcgui CRON[1949]: pam_unix(cron:session): session closed for user root
+Sep 26 15:17:01 lxcgui CRON[1988]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 26 15:17:01 lxcgui CRON[1988]: pam_unix(cron:session): session closed for user root
+Sep 26 16:17:01 lxcgui CRON[2015]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 26 16:17:01 lxcgui CRON[2015]: pam_unix(cron:session): session closed for user root
+Sep 26 17:17:01 lxcgui CRON[2054]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 26 17:17:01 lxcgui CRON[2054]: pam_unix(cron:session): session closed for user root
+Sep 26 18:17:01 lxcgui CRON[2081]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 26 18:17:01 lxcgui CRON[2081]: pam_unix(cron:session): session closed for user root
+Sep 26 19:17:01 lxcgui CRON[2120]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 26 19:17:01 lxcgui CRON[2120]: pam_unix(cron:session): session closed for user root
+Sep 26 20:17:01 lxcgui CRON[2159]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 26 20:17:01 lxcgui CRON[2159]: pam_unix(cron:session): session closed for user root
+Sep 26 21:17:01 lxcgui CRON[2186]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 26 21:17:01 lxcgui CRON[2186]: pam_unix(cron:session): session closed for user root
+Sep 26 22:17:01 lxcgui CRON[2213]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 26 22:17:01 lxcgui CRON[2213]: pam_unix(cron:session): session closed for user root
+Sep 26 23:17:01 lxcgui CRON[2252]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 26 23:17:01 lxcgui CRON[2252]: pam_unix(cron:session): session closed for user root
+Sep 27 00:17:01 lxcgui CRON[2291]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 27 00:17:01 lxcgui CRON[2291]: pam_unix(cron:session): session closed for user root
+Sep 27 01:17:01 lxcgui CRON[2318]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 27 01:17:01 lxcgui CRON[2318]: pam_unix(cron:session): session closed for user root
+Sep 27 02:17:01 lxcgui CRON[2357]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 27 02:17:01 lxcgui CRON[2357]: pam_unix(cron:session): session closed for user root
+Sep 27 03:17:01 lxcgui CRON[2384]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 27 03:17:01 lxcgui CRON[2384]: pam_unix(cron:session): session closed for user root
+Sep 27 04:17:01 lxcgui CRON[2423]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 27 04:17:01 lxcgui CRON[2423]: pam_unix(cron:session): session closed for user root
+Sep 27 05:17:01 lxcgui CRON[2450]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 27 05:17:01 lxcgui CRON[2450]: pam_unix(cron:session): session closed for user root
+Sep 27 06:17:01 lxcgui CRON[2489]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 27 06:17:01 lxcgui CRON[2489]: pam_unix(cron:session): session closed for user root
+Sep 27 06:25:01 lxcgui CRON[2492]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 27 06:25:02 lxcgui CRON[2492]: pam_unix(cron:session): session closed for user root
+Sep 27 07:17:01 lxcgui CRON[2593]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 27 07:17:01 lxcgui CRON[2593]: pam_unix(cron:session): session closed for user root
+Sep 27 08:17:01 lxcgui CRON[2632]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 27 08:17:01 lxcgui CRON[2632]: pam_unix(cron:session): session closed for user root
+Sep 27 09:17:01 lxcgui CRON[2659]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 27 09:17:01 lxcgui CRON[2659]: pam_unix(cron:session): session closed for user root
+Sep 27 10:17:01 lxcgui CRON[2698]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 27 10:17:01 lxcgui CRON[2698]: pam_unix(cron:session): session closed for user root
+Sep 27 11:17:01 lxcgui CRON[2737]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 27 11:17:01 lxcgui CRON[2737]: pam_unix(cron:session): session closed for user root
+Sep 27 12:17:01 lxcgui CRON[2764]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 27 12:17:01 lxcgui CRON[2764]: pam_unix(cron:session): session closed for user root
+Sep 27 13:17:01 lxcgui CRON[2791]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 27 13:17:01 lxcgui CRON[2791]: pam_unix(cron:session): session closed for user root
+Sep 27 14:17:01 lxcgui CRON[2830]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 27 14:17:01 lxcgui CRON[2830]: pam_unix(cron:session): session closed for user root
+Sep 27 15:17:01 lxcgui CRON[2857]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 27 15:17:01 lxcgui CRON[2857]: pam_unix(cron:session): session closed for user root
+Sep 27 16:17:01 lxcgui CRON[2896]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 27 16:17:01 lxcgui CRON[2896]: pam_unix(cron:session): session closed for user root
+Sep 27 17:17:01 lxcgui CRON[2923]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 27 17:17:01 lxcgui CRON[2923]: pam_unix(cron:session): session closed for user root
+Sep 27 18:17:01 lxcgui CRON[2962]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 27 18:17:01 lxcgui CRON[2962]: pam_unix(cron:session): session closed for user root
+Sep 27 19:17:01 lxcgui CRON[2989]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 27 19:17:01 lxcgui CRON[2989]: pam_unix(cron:session): session closed for user root
+Sep 27 20:17:01 lxcgui CRON[3016]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 27 20:17:01 lxcgui CRON[3016]: pam_unix(cron:session): session closed for user root
+Sep 27 21:17:01 lxcgui CRON[3055]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 27 21:17:01 lxcgui CRON[3055]: pam_unix(cron:session): session closed for user root
+Sep 27 22:17:01 lxcgui CRON[3094]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 27 22:17:01 lxcgui CRON[3094]: pam_unix(cron:session): session closed for user root
+Sep 27 23:17:01 lxcgui CRON[3121]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 27 23:17:01 lxcgui CRON[3121]: pam_unix(cron:session): session closed for user root
+Sep 28 00:17:01 lxcgui CRON[3160]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 28 00:17:01 lxcgui CRON[3160]: pam_unix(cron:session): session closed for user root
+Sep 28 01:17:01 lxcgui CRON[3187]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 28 01:17:01 lxcgui CRON[3187]: pam_unix(cron:session): session closed for user root
+Sep 28 02:17:01 lxcgui CRON[3226]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 28 02:17:01 lxcgui CRON[3226]: pam_unix(cron:session): session closed for user root
+Sep 28 03:17:01 lxcgui CRON[3253]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 28 03:17:01 lxcgui CRON[3253]: pam_unix(cron:session): session closed for user root
+Sep 28 04:17:01 lxcgui CRON[3292]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 28 04:17:01 lxcgui CRON[3292]: pam_unix(cron:session): session closed for user root
+Sep 28 05:17:01 lxcgui CRON[3331]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 28 05:17:01 lxcgui CRON[3331]: pam_unix(cron:session): session closed for user root
+Sep 28 06:17:01 lxcgui CRON[3358]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 28 06:17:01 lxcgui CRON[3358]: pam_unix(cron:session): session closed for user root
+Sep 28 06:25:01 lxcgui CRON[3361]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 28 06:25:02 lxcgui CRON[3361]: pam_unix(cron:session): session closed for user root
+Sep 28 07:17:01 lxcgui CRON[3451]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 28 07:17:01 lxcgui CRON[3451]: pam_unix(cron:session): session closed for user root
+Sep 28 08:17:01 lxcgui CRON[3490]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 28 08:17:01 lxcgui CRON[3490]: pam_unix(cron:session): session closed for user root
+Sep 28 09:17:01 lxcgui CRON[3517]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 28 09:17:01 lxcgui CRON[3517]: pam_unix(cron:session): session closed for user root
+Sep 28 10:17:01 lxcgui CRON[3556]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 28 10:17:01 lxcgui CRON[3556]: pam_unix(cron:session): session closed for user root
+Sep 28 11:17:01 lxcgui CRON[3583]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 28 11:17:01 lxcgui CRON[3583]: pam_unix(cron:session): session closed for user root
+Sep 28 12:17:01 lxcgui CRON[3622]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 28 12:17:01 lxcgui CRON[3622]: pam_unix(cron:session): session closed for user root
+Sep 28 13:17:01 lxcgui CRON[3649]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 28 13:17:01 lxcgui CRON[3649]: pam_unix(cron:session): session closed for user root
+Sep 28 14:17:01 lxcgui CRON[3688]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 28 14:17:01 lxcgui CRON[3688]: pam_unix(cron:session): session closed for user root
+Sep 28 15:17:01 lxcgui CRON[3715]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 28 15:17:01 lxcgui CRON[3715]: pam_unix(cron:session): session closed for user root
+Sep 28 16:17:01 lxcgui CRON[3753]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 28 16:17:01 lxcgui CRON[3753]: pam_unix(cron:session): session closed for user root
+Sep 28 17:17:01 lxcgui CRON[3792]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 28 17:17:01 lxcgui CRON[3792]: pam_unix(cron:session): session closed for user root
+Sep 28 18:17:01 lxcgui CRON[3819]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 28 18:17:01 lxcgui CRON[3819]: pam_unix(cron:session): session closed for user root
+Sep 28 19:17:01 lxcgui CRON[3846]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 28 19:17:01 lxcgui CRON[3846]: pam_unix(cron:session): session closed for user root
+Sep 28 20:17:01 lxcgui CRON[3885]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 28 20:17:01 lxcgui CRON[3885]: pam_unix(cron:session): session closed for user root
+Sep 28 21:17:01 lxcgui CRON[3924]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 28 21:17:01 lxcgui CRON[3924]: pam_unix(cron:session): session closed for user root
+Sep 28 22:17:01 lxcgui CRON[3951]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 28 22:17:01 lxcgui CRON[3951]: pam_unix(cron:session): session closed for user root
+Sep 28 23:17:01 lxcgui CRON[3978]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 28 23:17:01 lxcgui CRON[3978]: pam_unix(cron:session): session closed for user root
+Sep 29 00:17:01 lxcgui CRON[4017]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 29 00:17:01 lxcgui CRON[4017]: pam_unix(cron:session): session closed for user root
+Sep 29 01:17:01 lxcgui CRON[4044]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 29 01:17:01 lxcgui CRON[4044]: pam_unix(cron:session): session closed for user root
+Sep 29 02:17:01 lxcgui CRON[4083]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 29 02:17:01 lxcgui CRON[4083]: pam_unix(cron:session): session closed for user root
+Sep 29 03:17:01 lxcgui CRON[4110]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 29 03:17:01 lxcgui CRON[4110]: pam_unix(cron:session): session closed for user root
+Sep 29 04:17:01 lxcgui CRON[4137]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 29 04:17:01 lxcgui CRON[4137]: pam_unix(cron:session): session closed for user root
+Sep 29 05:17:01 lxcgui CRON[4176]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 29 05:17:01 lxcgui CRON[4176]: pam_unix(cron:session): session closed for user root
+Sep 29 06:17:01 lxcgui CRON[4203]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 29 06:17:01 lxcgui CRON[4203]: pam_unix(cron:session): session closed for user root
+Sep 29 06:25:01 lxcgui CRON[4206]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 29 06:25:02 lxcgui CRON[4206]: pam_unix(cron:session): session closed for user root
+Sep 29 07:17:01 lxcgui CRON[4303]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 29 07:17:01 lxcgui CRON[4303]: pam_unix(cron:session): session closed for user root
+Sep 29 08:17:01 lxcgui CRON[4330]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 29 08:17:01 lxcgui CRON[4330]: pam_unix(cron:session): session closed for user root
+Sep 29 09:17:01 lxcgui CRON[4369]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 29 09:17:01 lxcgui CRON[4369]: pam_unix(cron:session): session closed for user root
+Sep 29 10:17:01 lxcgui CRON[4396]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 29 10:17:01 lxcgui CRON[4396]: pam_unix(cron:session): session closed for user root

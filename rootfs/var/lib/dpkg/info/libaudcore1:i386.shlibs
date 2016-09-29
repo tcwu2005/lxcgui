@@ -1,0 +1,3 @@
+libaudcore 1 libaudcore1
+libaudgui 1 libaudcore1
+libaudtag 1 libaudcore1

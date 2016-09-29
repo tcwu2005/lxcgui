@@ -1,0 +1,16 @@
+daf5cc76eb0748647b181cf1d3a4bd6a  usr/bin/mimeopen
+f001704dba2826fc363fb4114bad6f23  usr/bin/mimetype
+27489f50a37406e190d6a6a2b4d2f23b  usr/share/doc/libfile-mimeinfo-perl/changelog.Debian.gz
+e8c4c2607f13b2b04ba79a06d0422185  usr/share/doc/libfile-mimeinfo-perl/copyright
+1e86edbd79c9b722055866ab8ba98974  usr/share/man/man1/mimeopen.1p.gz
+fd48524474161b1919b3f6cd0f3207a4  usr/share/man/man1/mimetype.1p.gz
+9b7d57e4a3cba83bc1e8c6fbc462bac2  usr/share/man/man3/File::MimeInfo.3pm.gz
+ccd752803f5974f3177d5f3f73791f03  usr/share/man/man3/File::MimeInfo::Applications.3pm.gz
+235d77b75fdddba2e7c76012c4360105  usr/share/man/man3/File::MimeInfo::Cookbook.3pm.gz
+ab2e63ec1d6dce65b0e607813dd0ac34  usr/share/man/man3/File::MimeInfo::Magic.3pm.gz
+bfbc51dd57816c4bd3aa0986d9f7a2a5  usr/share/man/man3/File::MimeInfo::Rox.3pm.gz
+34a2053a588b7b8a6485c971c528d4d0  usr/share/perl5/File/MimeInfo.pm
+ffdff34bec4a1f7ce3ead38d7e4809a8  usr/share/perl5/File/MimeInfo/Applications.pm
+695d9455c45810e719cf6394152992fa  usr/share/perl5/File/MimeInfo/Cookbook.pod
+44f56f0b61d63e2bf96e9eee061fb067  usr/share/perl5/File/MimeInfo/Magic.pm
+07d05462fd2850d77caec10c6ee29f27  usr/share/perl5/File/MimeInfo/Rox.pm

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+  <wallpaper>
+    <name>Ubuntu</name>
+    <name xml:lang="cs">Ubuntu</name>
+    <name xml:lang="en_GB">Ubuntu</name>
+    <name xml:lang="es">Ubuntu</name>
+    <name xml:lang="jbo">lu ubuntus</name>
+    <name xml:lang="mr">उबून्टू</name>
+    <name xml:lang="oc">Ubuntu</name>
+    <name xml:lang="sl">Ubuntu</name>
+    <name xml:lang="uk">Ubuntu</name>
+    <name xml:lang="zh_CN">Ubuntu</name>
+    <filename>/usr/share/backgrounds/warty-final-ubuntu.png</filename>
+    <options>zoom</options>
+    <pcolor>#2c001e</pcolor>
+    <scolor>#2c001e</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+</wallpapers>

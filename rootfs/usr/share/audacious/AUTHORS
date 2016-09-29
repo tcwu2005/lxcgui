@@ -1,0 +1,95 @@
+HISTORY
+
+Audacious was originally based on the X Multimedia System (“XMMS”) via its
+GTK+ 2.x port Beep Media Player (“BMP”).  Audacious has changed quite a bit
+since its first release, however, and little XMMS/BMP code remains.
+
+The Audacious project began in 2005 under the leadership of William Pitcock
+(“nenolod”).  Many people have made contributions, both large and small, since
+that time.  At present, the project is led by John Lindgren and Michał Lipski
+(“tallica”), with help from a few others.  Special thanks go to Michał Lipski
+for setting up and maintaining the current website.
+
+The Audacious logo was designed by George Averill and updated by John Lindgren.
+It uses the “Circulate” font created by Brian Kent.
+
+Besides the developers listed below, a word of thanks is also due to the many
+people who have helped to translate the Audacious interface into a number of
+different (human) languages.  The translation effort is now done mostly through
+Transifex, making it easier to contribute but also nearly impossible to
+maintain a list of those who have done so.
+
+
+DEVELOPERS
+
+Please note that many of Audacious’s features are implemented by plugins, whose
+authors are listed elsewhere.
+
+Core executable (src/audacious):
+ * Copyright © 2001 Anders Johansson
+ * Copyright © 2003-2012:
+  Michael Färber
+  Matti Hämäläinen
+  Michael Hanselmann
+  John Lindgren
+  Michał Lipski
+  Tomasz Moń
+  William Pitcock
+  Andrew Shadoura
+  Ben Tucker
+  Yoshiki Yazawa
+  Eugene Zagidullin
+
+Command line tool (src/audtool):
+ * Copyright © 2005-2011:
+  George Averill
+  Matti Hämäläinen
+  John Lindgren
+  Giacomo Lozito
+  William Pitcock
+  Yoshiki Yazawa
+
+Remote control shared library (src/libaudclient):
+ * Copyright © 2007-2011:
+  Matti Hämäläinen
+  John Lindgren
+  William Pitcock
+  Ben Tucker
+  Yoshiki Yazawa
+
+Core shared library (src/libaudcore):
+ * Copyright © 2006-2012:
+  Daniel Barkalow
+  Christian Birchinger
+  Ralf Ertzinger
+  Maciej Grela
+  Matti Hämäläinen
+  Anders Johansson
+  John Lindgren
+  Michał Lipski
+  Giacomo Lozito
+  William Pitcock
+  Tony Vroon
+  Yoshiki Yazawa
+  Eugene Zagidullin
+
+User interface shared library (src/libaudgui):
+ * Copyright © 2006-2012:
+  Carlo Bramini
+  Michael Färber
+  Jussi Judin
+  John Lindgren
+  Giacomo Lozito
+  Tomasz Moń
+  William Pitcock
+  Yoshiki Yazawa
+  Eugene Zagidullin
+
+Tagging support (src/libaudtag):
+ * Copyright © 2009-2011:
+  John Lindgren
+  Michał Lipski
+  Mikael Magnusson
+  William Pitcock
+  Paula Stanciu
+  Tony Vroon

@@ -1,0 +1,16 @@
+c826e0ada6401ccbb4394ef8129f658e  bin/dbus-cleanup-sockets
+7f4bb1bde50b6375a505139e5a91e4ce  bin/dbus-daemon
+e754545abfe00ee67759c9da52d4ba55  bin/dbus-uuidgen
+88e4ed1c1543517f77e602978e8eddbe  lib/systemd/system/dbus.service
+73e727da46edb943a1b1fabd6fd91ff5  lib/systemd/system/dbus.socket
+87e2fc72ba10e9265544fe53e61ec482  usr/bin/dbus-monitor
+4a3c71bb32a1f86edeafe416473e43ff  usr/bin/dbus-send
+cce79f87492b091ae8f0d1172755e1d8  usr/lib/dbus-1.0/dbus-daemon-launch-helper
+9fe76ee5bf690cc6d8aa539bf9621a75  usr/share/doc/dbus/copyright
+1ecc2f6fbf7380646b609a691e5c15b1  usr/share/lintian/overrides/dbus
+e0107df0022f9f1565665f2415e00d0b  usr/share/man/man1/dbus-cleanup-sockets.1.gz
+17134249d94bd127a9445da2e34326ae  usr/share/man/man1/dbus-daemon.1.gz
+8a0ade0f3750254e5aaf9935cbaf6ed2  usr/share/man/man1/dbus-monitor.1.gz
+bf82c34350af5afd9ff5fd623a5b34c5  usr/share/man/man1/dbus-send.1.gz
+02faac8619a86e6396eef8ddbde69a64  usr/share/man/man1/dbus-uuidgen.1.gz
+4a065316c5ce8c91da193d53e9b63a88  usr/share/upstart/sessions/dbus.conf

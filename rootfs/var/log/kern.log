@@ -1,0 +1,25 @@
+Sep 26 08:56:31 lxcgui kernel: [26782.960362] lxcbr0: port 2(vethNN4AS4) entered disabled state
+Sep 26 08:56:32 lxcgui kernel: [26783.598302] device vethDAU2OH entered promiscuous mode
+Sep 26 08:56:32 lxcgui kernel: [26783.598420] IPv6: ADDRCONF(NETDEV_UP): vethDAU2OH: link is not ready
+Sep 26 08:56:32 lxcgui kernel: [26783.598422] lxcbr0: port 2(vethDAU2OH) entered forwarding state
+Sep 26 08:56:32 lxcgui kernel: [26783.598442] lxcbr0: port 2(vethDAU2OH) entered forwarding state
+Sep 26 08:56:43 lxcgui kernel: [26794.525026] lxcbr0: port 3(veth0W9GU0) entered disabled state
+Sep 26 08:56:43 lxcgui kernel: [26794.527571] device veth0W9GU0 left promiscuous mode
+Sep 26 08:56:43 lxcgui kernel: [26794.527574] lxcbr0: port 3(veth0W9GU0) entered disabled state
+Sep 26 09:00:44 lxcgui kernel: [27035.960933] device vethR9C9YY entered promiscuous mode
+Sep 26 09:00:44 lxcgui kernel: [27036.012887] eth0: renamed from vethNAHT57
+Sep 26 09:00:45 lxcgui kernel: [27036.029112] IPv6: ADDRCONF(NETDEV_CHANGE): vethR9C9YY: link becomes ready
+Sep 26 09:00:45 lxcgui kernel: [27036.029172] lxcbr0: port 2(vethR9C9YY) entered forwarding state
+Sep 26 09:00:45 lxcgui kernel: [27036.029206] lxcbr0: port 2(vethR9C9YY) entered forwarding state
+Sep 26 09:00:46 lxcgui kernel: [27037.108757] eth0: renamed from vethV3D0SU
+Sep 26 09:01:00 lxcgui kernel: [27051.034966] lxcbr0: port 2(vethR9C9YY) entered forwarding state
+Sep 26 11:45:55 lxcgui kernel: [36946.001590] xhci_hcd 0000:03:00.0: Port resume took longer than 20000 msec, port status = 0x40000fe3
+Sep 26 11:45:56 lxcgui kernel: [36946.258300] usb 5-1: New USB device found, idVendor=2109, idProduct=0811
+Sep 26 11:45:56 lxcgui kernel: [36946.258896] hub 5-1:1.0: USB hub found
+Sep 26 11:45:56 lxcgui kernel: [36946.786388] usb 5-1.2: New USB device found, idVendor=152d, idProduct=2329
+Sep 26 11:45:56 lxcgui kernel: [36946.786393] usb 5-1.2: Manufacturer: StoreJet Transcend
+Sep 26 11:45:58 lxcgui kernel: [36948.213899]  sdc: sdc1
+Sep 26 23:35:02 lxcgui kernel: [79489.021950] audit: type=1400 audit(1474932902.442:100): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="/usr/sbin/cupsd" pid=29942 comm="apparmor_parser"
+Sep 29 09:00:33 lxcgui kernel: [286202.288244] audit: type=1400 audit(1475139633.249:109): apparmor="DENIED" operation="open" profile="/usr/bin/evince-thumbnailer" name="/opt/user/.local/share/mime/globs2" pid=25665 comm="evince-thumbnai" requested_mask="r" denied_mask="r" fsuid=1000 ouid=1000
+Sep 29 09:00:33 lxcgui kernel: [286202.288268] audit: type=1400 audit(1475139633.249:111): apparmor="DENIED" operation="open" profile="/usr/bin/evince-thumbnailer" name="/opt/user/.local/share/mime/aliases" pid=25665 comm="evince-thumbnai" requested_mask="r" denied_mask="r" fsuid=1000 ouid=1000
+Sep 29 09:00:33 lxcgui kernel: [286202.288281] audit: type=1400 audit(1475139633.249:113): apparmor="DENIED" operation="open" profile="/usr/bin/evince-thumbnailer" name="/opt/user/.local/share/mime/icons" pid=25665 comm="evince-thumbnai" requested_mask="r" denied_mask="r" fsuid=1000 ouid=1000

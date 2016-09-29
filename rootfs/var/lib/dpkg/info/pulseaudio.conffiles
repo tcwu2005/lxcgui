@@ -1,0 +1,9 @@
+/etc/default/pulseaudio
+/etc/dbus-1/system.d/pulseaudio-system.conf
+/etc/xdg/autostart/pulseaudio-kde.desktop
+/etc/xdg/autostart/pulseaudio.desktop
+/etc/init/pulseaudio.conf
+/etc/init.d/pulseaudio
+/etc/pulse/daemon.conf
+/etc/pulse/default.pa
+/etc/pulse/system.pa

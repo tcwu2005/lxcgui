@@ -1,0 +1,14 @@
+/.
+/usr
+/usr/lib
+/usr/lib/i386-linux-gnu
+/usr/lib/i386-linux-gnu/gtk-3.0
+/usr/lib/i386-linux-gnu/gtk-3.0/3.0.0
+/usr/lib/i386-linux-gnu/gtk-3.0/3.0.0/theming-engines
+/usr/lib/i386-linux-gnu/gtk-3.0/3.0.0/theming-engines/libunico.so
+/usr/share
+/usr/share/doc
+/usr/share/doc/gtk3-engines-unico
+/usr/share/doc/gtk3-engines-unico/changelog.Debian.gz
+/usr/share/doc/gtk3-engines-unico/copyright
+/usr/share/doc/gtk3-engines-unico/NEWS.gz

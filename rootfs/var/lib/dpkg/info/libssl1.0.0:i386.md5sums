@@ -1,0 +1,16 @@
+0db691fc85544aee19a52219e9d7ec58  lib/i386-linux-gnu/libcrypto.so.1.0.0
+e86917b1796ac00f7c623ccb4be90b95  lib/i386-linux-gnu/libssl.so.1.0.0
+b1b98534a4b0c6cffa0faed993a584f1  usr/lib/i386-linux-gnu/openssl-1.0.0/engines/lib4758cca.so
+c6cc07fe96b4e88c13dac1a6f0a9ffdf  usr/lib/i386-linux-gnu/openssl-1.0.0/engines/libaep.so
+2b00aab371eed5d547e65206d809c749  usr/lib/i386-linux-gnu/openssl-1.0.0/engines/libatalla.so
+e14051c72aac5a92bea04bf5e89d3d5c  usr/lib/i386-linux-gnu/openssl-1.0.0/engines/libcapi.so
+2bff982f28a48c39edc5ba167c6a9245  usr/lib/i386-linux-gnu/openssl-1.0.0/engines/libchil.so
+8cf36ee52c843ad02b17f1ed74ce39fe  usr/lib/i386-linux-gnu/openssl-1.0.0/engines/libcswift.so
+1bc84682533a360bd0fd16d01967ddb8  usr/lib/i386-linux-gnu/openssl-1.0.0/engines/libgmp.so
+c802ea20647b0773b8d3fd5be3a051ea  usr/lib/i386-linux-gnu/openssl-1.0.0/engines/libgost.so
+99a7cadfe6756871648d83bb997de8b9  usr/lib/i386-linux-gnu/openssl-1.0.0/engines/libnuron.so
+da452a967b1c38c8379fedf44f154b16  usr/lib/i386-linux-gnu/openssl-1.0.0/engines/libpadlock.so
+4de1e3056e4d97669948971f3bb94de4  usr/lib/i386-linux-gnu/openssl-1.0.0/engines/libsureware.so
+8f336a60a998abc407c9b552789b7d41  usr/lib/i386-linux-gnu/openssl-1.0.0/engines/libubsec.so
+4b35f523ca2b3db8ba978257825906a9  usr/share/doc/libssl1.0.0/changelog.Debian.gz
+0ba5769c4ae43d0052d43b88b65ca9c9  usr/share/doc/libssl1.0.0/copyright

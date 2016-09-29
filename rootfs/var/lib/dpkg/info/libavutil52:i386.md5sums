@@ -1,0 +1,5 @@
+53522e10e25fad590392522abca07875  usr/lib/i386-linux-gnu/i686/cmov/libavutil.so.52.3.0
+6c433fab53ce5254884b55bc9b5e8942  usr/lib/i386-linux-gnu/libavutil.so.52.3.0
+e6a6174b4175335b2044619a2e720fd3  usr/share/doc/libavutil52/changelog.Debian.gz
+b8781a2635d6e4768ef408a133f06015  usr/share/doc/libavutil52/copyright
+343fdd79848b7fb174f80e545a76af51  usr/share/lintian/overrides/libavutil52

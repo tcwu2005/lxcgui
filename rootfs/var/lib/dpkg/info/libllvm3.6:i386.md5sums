@@ -1,0 +1,5 @@
+06a13c206c84fa987bf1bfdaa1500495  usr/lib/i386-linux-gnu/libLLVM-3.6.so.1
+cd9af74cb702da339bc962e28fbcfabc  usr/share/doc/libllvm3.6/NEWS.Debian.gz
+4536d4ff5c96fe58e10c84199d3f4a79  usr/share/doc/libllvm3.6/changelog.Debian.gz
+57558fc3f6acd2fe800cc173328779bd  usr/share/doc/libllvm3.6/copyright
+793315d9d5fd3cb0dc45924c84d8b3ca  usr/share/lintian/overrides/libllvm3.6

@@ -1,0 +1,11 @@
+/.
+/usr
+/usr/lib
+/usr/lib/i386-linux-gnu
+/usr/lib/i386-linux-gnu/libgusb.so.2.0.3
+/usr/share
+/usr/share/doc
+/usr/share/doc/libgusb2
+/usr/share/doc/libgusb2/changelog.Debian.gz
+/usr/share/doc/libgusb2/copyright
+/usr/lib/i386-linux-gnu/libgusb.so.2

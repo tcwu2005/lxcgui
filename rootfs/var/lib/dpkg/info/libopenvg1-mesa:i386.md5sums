@@ -1,0 +1,6 @@
+9c05c5f7e2804505fa2adb7f5e005b03  usr/lib/i386-linux-gnu/mesa-egl/libOpenVG.so.1.0.0
+7f0d95ab544ef194372363bb93229ede  usr/share/bug/libopenvg1-mesa/control
+114f277e413ffae0a725cc024a955b47  usr/share/bug/libopenvg1-mesa/script
+db463d66b4d41dd8860b859750d86b92  usr/share/doc/libopenvg1-mesa/changelog.Debian.gz
+241ed682eeb4973b7b7ac9131624f31f  usr/share/doc/libopenvg1-mesa/copyright
+27b2dea0208756313ff51c498f89b738  usr/share/lintian/overrides/libopenvg1-mesa

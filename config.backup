@@ -1,0 +1,24 @@
+# Template used to create this container: /usr/share/lxc/templates/lxc-download
+# Parameters passed to the template: -a i386 -d ubuntu -r trusty
+# For additional config options, please look at lxc.container.conf(5)
+
+# Distribution configuration
+lxc.include = /usr/share/lxc/config/ubuntu.common.conf
+lxc.arch = x86
+
+lxc.mount.entry = /dev/dri dev/dri none bind,optional,create=dir
+lxc.mount.entry = /dev/snd dev/snd none bind,optional,create=dir
+lxc.mount.entry = /tmp/.X11-unix tmp/.X11-unix none bind,optional,create=dir
+#lxc.mount.entry = /dev/video0 dev/video0 none bind,optional,create=file
+#lxc.mount.entry = /tmp/.lxc tmp/.lxc none bind,optional,create=dir
+#lxc.hook.pre-start = /var/lib/lxc/lxcgui/setup-pulse.sh
+
+# Container specific configuration
+lxc.rootfs = /var/lib/lxc/lxcgui/rootfs
+lxc.utsname = lxcgui
+
+# Network configuration
+lxc.network.type = veth
+lxc.network.flags = up
+lxc.network.link = lxcbr0
+lxc.network.hwaddr = 00:16:3e:fb:7c:0b

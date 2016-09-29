@@ -1,0 +1,170 @@
+lease {
+  interface "eth0";
+  fixed-address 10.0.3.69;
+  option subnet-mask 255.255.255.0;
+  option routers 10.0.3.1;
+  option dhcp-lease-time 3600;
+  option dhcp-message-type 5;
+  option domain-name-servers 10.0.3.1;
+  option dhcp-server-identifier 10.0.3.1;
+  option dhcp-renewal-time 1673;
+  option broadcast-address 10.0.3.255;
+  option dhcp-rebinding-time 3023;
+  option host-name "lxcgui";
+  renew 4 2016/09/29 07:10:20;
+  rebind 4 2016/09/29 07:39:03;
+  expire 4 2016/09/29 07:48:40;
+}
+lease {
+  interface "eth0";
+  fixed-address 10.0.3.69;
+  option subnet-mask 255.255.255.0;
+  option routers 10.0.3.1;
+  option dhcp-lease-time 3600;
+  option dhcp-message-type 5;
+  option domain-name-servers 10.0.3.1;
+  option dhcp-server-identifier 10.0.3.1;
+  option dhcp-renewal-time 1576;
+  option broadcast-address 10.0.3.255;
+  option dhcp-rebinding-time 2926;
+  option host-name "lxcgui";
+  renew 4 2016/09/29 07:33:42;
+  rebind 4 2016/09/29 07:59:06;
+  expire 4 2016/09/29 08:10:20;
+}
+lease {
+  interface "eth0";
+  fixed-address 10.0.3.69;
+  option subnet-mask 255.255.255.0;
+  option routers 10.0.3.1;
+  option dhcp-lease-time 3600;
+  option dhcp-message-type 5;
+  option domain-name-servers 10.0.3.1;
+  option dhcp-server-identifier 10.0.3.1;
+  option dhcp-renewal-time 1640;
+  option broadcast-address 10.0.3.255;
+  option dhcp-rebinding-time 2990;
+  option host-name "lxcgui";
+  renew 4 2016/09/29 07:55:51;
+  rebind 4 2016/09/29 08:23:32;
+  expire 4 2016/09/29 08:33:42;
+}
+lease {
+  interface "eth0";
+  fixed-address 10.0.3.69;
+  option subnet-mask 255.255.255.0;
+  option routers 10.0.3.1;
+  option dhcp-lease-time 3600;
+  option dhcp-message-type 5;
+  option domain-name-servers 10.0.3.1;
+  option dhcp-server-identifier 10.0.3.1;
+  option dhcp-renewal-time 1631;
+  option broadcast-address 10.0.3.255;
+  option dhcp-rebinding-time 2981;
+  option host-name "lxcgui";
+  renew 4 2016/09/29 08:19:07;
+  rebind 4 2016/09/29 08:45:32;
+  expire 4 2016/09/29 08:55:51;
+}
+lease {
+  interface "eth0";
+  fixed-address 10.0.3.69;
+  option subnet-mask 255.255.255.0;
+  option routers 10.0.3.1;
+  option dhcp-lease-time 3600;
+  option dhcp-message-type 5;
+  option domain-name-servers 10.0.3.1;
+  option dhcp-server-identifier 10.0.3.1;
+  option dhcp-renewal-time 1587;
+  option broadcast-address 10.0.3.255;
+  option dhcp-rebinding-time 2937;
+  option host-name "lxcgui";
+  renew 4 2016/09/29 08:43:51;
+  rebind 4 2016/09/29 09:08:04;
+  expire 4 2016/09/29 09:19:07;
+}
+lease {
+  interface "eth0";
+  fixed-address 10.0.3.69;
+  option subnet-mask 255.255.255.0;
+  option routers 10.0.3.1;
+  option dhcp-lease-time 3600;
+  option dhcp-message-type 5;
+  option domain-name-servers 10.0.3.1;
+  option dhcp-server-identifier 10.0.3.1;
+  option dhcp-renewal-time 1628;
+  option broadcast-address 10.0.3.255;
+  option dhcp-rebinding-time 2978;
+  option host-name "lxcgui";
+  renew 4 2016/09/29 09:07:05;
+  rebind 4 2016/09/29 09:33:29;
+  expire 4 2016/09/29 09:43:51;
+}
+lease {
+  interface "eth0";
+  fixed-address 10.0.3.69;
+  option subnet-mask 255.255.255.0;
+  option routers 10.0.3.1;
+  option dhcp-lease-time 3600;
+  option dhcp-message-type 5;
+  option domain-name-servers 10.0.3.1;
+  option dhcp-server-identifier 10.0.3.1;
+  option dhcp-renewal-time 1681;
+  option broadcast-address 10.0.3.255;
+  option dhcp-rebinding-time 3031;
+  option host-name "lxcgui";
+  renew 4 2016/09/29 09:32:06;
+  rebind 4 2016/09/29 09:57:36;
+  expire 4 2016/09/29 10:07:05;
+}
+lease {
+  interface "eth0";
+  fixed-address 10.0.3.69;
+  option subnet-mask 255.255.255.0;
+  option routers 10.0.3.1;
+  option dhcp-lease-time 3600;
+  option dhcp-message-type 5;
+  option domain-name-servers 10.0.3.1;
+  option dhcp-server-identifier 10.0.3.1;
+  option dhcp-renewal-time 1585;
+  option broadcast-address 10.0.3.255;
+  option dhcp-rebinding-time 2935;
+  option host-name "lxcgui";
+  renew 4 2016/09/29 09:58:19;
+  rebind 4 2016/09/29 10:21:01;
+  expire 4 2016/09/29 10:32:06;
+}
+lease {
+  interface "eth0";
+  fixed-address 10.0.3.69;
+  option subnet-mask 255.255.255.0;
+  option routers 10.0.3.1;
+  option dhcp-lease-time 3600;
+  option dhcp-message-type 5;
+  option domain-name-servers 10.0.3.1;
+  option dhcp-server-identifier 10.0.3.1;
+  option dhcp-renewal-time 1615;
+  option broadcast-address 10.0.3.255;
+  option dhcp-rebinding-time 2965;
+  option host-name "lxcgui";
+  renew 4 2016/09/29 10:21:17;
+  rebind 4 2016/09/29 10:47:45;
+  expire 4 2016/09/29 10:58:20;
+}
+lease {
+  interface "eth0";
+  fixed-address 10.0.3.69;
+  option subnet-mask 255.255.255.0;
+  option routers 10.0.3.1;
+  option dhcp-lease-time 3600;
+  option dhcp-message-type 5;
+  option domain-name-servers 10.0.3.1;
+  option dhcp-server-identifier 10.0.3.1;
+  option dhcp-renewal-time 1667;
+  option broadcast-address 10.0.3.255;
+  option dhcp-rebinding-time 3017;
+  option host-name "lxcgui";
+  renew 4 2016/09/29 10:43:46;
+  rebind 4 2016/09/29 11:11:34;
+  expire 4 2016/09/29 11:21:17;
+}

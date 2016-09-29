@@ -1,0 +1,14 @@
+[gtkui]
+column_widths=-1,-1,-1,-1,-1
+column_expand=1,1,1,0,0
+player_x=0
+player_y=66
+
+[audgui]
+filesel_path=/home/ubuntu
+
+[gtkui-layout]
+item_count=0
+
+[alsa]
+mixer-element=Master

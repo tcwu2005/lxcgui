@@ -1,0 +1,15 @@
+/.
+/usr
+/usr/share
+/usr/share/bug
+/usr/share/bug/libgbm1-lts-vivid
+/usr/share/bug/libgbm1-lts-vivid/script
+/usr/share/bug/libgbm1-lts-vivid/control
+/usr/share/doc
+/usr/share/doc/libgbm1-lts-vivid
+/usr/share/doc/libgbm1-lts-vivid/copyright
+/usr/lib
+/usr/lib/i386-linux-gnu
+/usr/lib/i386-linux-gnu/libgbm.so.1.0.0
+/usr/share/doc/libgbm1-lts-vivid/changelog.Debian.gz
+/usr/lib/i386-linux-gnu/libgbm.so.1

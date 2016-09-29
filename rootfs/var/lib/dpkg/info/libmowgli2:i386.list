@@ -1,0 +1,14 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/libmowgli2
+/usr/share/doc/libmowgli2/changelog.Debian.gz
+/usr/share/doc/libmowgli2/copyright
+/usr/share/lintian
+/usr/share/lintian/overrides
+/usr/share/lintian/overrides/libmowgli2
+/usr/lib
+/usr/lib/i386-linux-gnu
+/usr/lib/i386-linux-gnu/libmowgli.so.2.0.0
+/usr/lib/i386-linux-gnu/libmowgli.so.2

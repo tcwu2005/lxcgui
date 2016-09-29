@@ -1,0 +1,40 @@
+Sep 29 06:26:56 lxcgui dhclient: DHCPREQUEST of 10.0.3.69 on eth0 to 10.0.3.1 port 67 (xid=0x3a6353a2)
+Sep 29 06:26:56 lxcgui dhclient: DHCPACK of 10.0.3.69 from 10.0.3.1
+Sep 29 06:26:56 lxcgui dhclient: bound to 10.0.3.69 -- renewal in 1304 seconds.
+Sep 29 06:48:40 lxcgui dhclient: DHCPREQUEST of 10.0.3.69 on eth0 to 10.0.3.1 port 67 (xid=0x3a6353a2)
+Sep 29 06:48:40 lxcgui dhclient: DHCPACK of 10.0.3.69 from 10.0.3.1
+Sep 29 06:48:40 lxcgui dhclient: bound to 10.0.3.69 -- renewal in 1300 seconds.
+Sep 29 07:10:20 lxcgui dhclient: DHCPREQUEST of 10.0.3.69 on eth0 to 10.0.3.1 port 67 (xid=0x3a6353a2)
+Sep 29 07:10:20 lxcgui dhclient: DHCPACK of 10.0.3.69 from 10.0.3.1
+Sep 29 07:10:20 lxcgui dhclient: bound to 10.0.3.69 -- renewal in 1402 seconds.
+Sep 29 07:17:01 lxcgui CRON[4304]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Sep 29 07:33:42 lxcgui dhclient: DHCPREQUEST of 10.0.3.69 on eth0 to 10.0.3.1 port 67 (xid=0x3a6353a2)
+Sep 29 07:33:42 lxcgui dhclient: DHCPACK of 10.0.3.69 from 10.0.3.1
+Sep 29 07:33:42 lxcgui dhclient: bound to 10.0.3.69 -- renewal in 1329 seconds.
+Sep 29 07:55:51 lxcgui dhclient: DHCPREQUEST of 10.0.3.69 on eth0 to 10.0.3.1 port 67 (xid=0x3a6353a2)
+Sep 29 07:55:51 lxcgui dhclient: DHCPACK of 10.0.3.69 from 10.0.3.1
+Sep 29 07:55:51 lxcgui dhclient: bound to 10.0.3.69 -- renewal in 1396 seconds.
+Sep 29 08:17:01 lxcgui CRON[4331]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Sep 29 08:19:07 lxcgui dhclient: DHCPREQUEST of 10.0.3.69 on eth0 to 10.0.3.1 port 67 (xid=0x3a6353a2)
+Sep 29 08:19:07 lxcgui dhclient: DHCPACK of 10.0.3.69 from 10.0.3.1
+Sep 29 08:19:07 lxcgui dhclient: bound to 10.0.3.69 -- renewal in 1484 seconds.
+Sep 29 08:43:51 lxcgui dhclient: DHCPREQUEST of 10.0.3.69 on eth0 to 10.0.3.1 port 67 (xid=0x3a6353a2)
+Sep 29 08:43:51 lxcgui dhclient: DHCPACK of 10.0.3.69 from 10.0.3.1
+Sep 29 08:43:51 lxcgui dhclient: bound to 10.0.3.69 -- renewal in 1394 seconds.
+Sep 29 09:00:33 lxcgui kernel: [286202.288244] audit: type=1400 audit(1475139633.249:109): apparmor="DENIED" operation="open" profile="/usr/bin/evince-thumbnailer" name="/opt/user/.local/share/mime/globs2" pid=25665 comm="evince-thumbnai" requested_mask="r" denied_mask="r" fsuid=1000 ouid=1000
+Sep 29 09:00:33 lxcgui kernel: [286202.288268] audit: type=1400 audit(1475139633.249:111): apparmor="DENIED" operation="open" profile="/usr/bin/evince-thumbnailer" name="/opt/user/.local/share/mime/aliases" pid=25665 comm="evince-thumbnai" requested_mask="r" denied_mask="r" fsuid=1000 ouid=1000
+Sep 29 09:00:33 lxcgui kernel: [286202.288281] audit: type=1400 audit(1475139633.249:113): apparmor="DENIED" operation="open" profile="/usr/bin/evince-thumbnailer" name="/opt/user/.local/share/mime/icons" pid=25665 comm="evince-thumbnai" requested_mask="r" denied_mask="r" fsuid=1000 ouid=1000
+Sep 29 09:07:05 lxcgui dhclient: DHCPREQUEST of 10.0.3.69 on eth0 to 10.0.3.1 port 67 (xid=0x3a6353a2)
+Sep 29 09:07:05 lxcgui dhclient: DHCPACK of 10.0.3.69 from 10.0.3.1
+Sep 29 09:07:05 lxcgui dhclient: bound to 10.0.3.69 -- renewal in 1501 seconds.
+Sep 29 09:17:01 lxcgui CRON[4370]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Sep 29 09:32:06 lxcgui dhclient: DHCPREQUEST of 10.0.3.69 on eth0 to 10.0.3.1 port 67 (xid=0x3a6353a2)
+Sep 29 09:32:06 lxcgui dhclient: DHCPACK of 10.0.3.69 from 10.0.3.1
+Sep 29 09:32:06 lxcgui dhclient: bound to 10.0.3.69 -- renewal in 1573 seconds.
+Sep 29 09:58:19 lxcgui dhclient: DHCPREQUEST of 10.0.3.69 on eth0 to 10.0.3.1 port 67 (xid=0x3a6353a2)
+Sep 29 09:58:20 lxcgui dhclient: DHCPACK of 10.0.3.69 from 10.0.3.1
+Sep 29 09:58:20 lxcgui dhclient: bound to 10.0.3.69 -- renewal in 1377 seconds.
+Sep 29 10:17:01 lxcgui CRON[4397]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Sep 29 10:21:17 lxcgui dhclient: DHCPREQUEST of 10.0.3.69 on eth0 to 10.0.3.1 port 67 (xid=0x3a6353a2)
+Sep 29 10:21:17 lxcgui dhclient: DHCPACK of 10.0.3.69 from 10.0.3.1
+Sep 29 10:21:17 lxcgui dhclient: bound to 10.0.3.69 -- renewal in 1349 seconds.

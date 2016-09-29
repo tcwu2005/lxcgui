@@ -1,0 +1,5 @@
+ff64151320f9f5f3b8c63dd1e7208f41  usr/lib/i386-linux-gnu/i686/cmov/libavcodec.so.54.35.0
+bb540bc74fb1be005578b3891f6b8076  usr/lib/i386-linux-gnu/libavcodec.so.54.35.0
+309ee7c155b1ae0efb4cf72a4229aacb  usr/share/doc/libavcodec54/codecs-i386.txt.gz
+b8781a2635d6e4768ef408a133f06015  usr/share/doc/libavcodec54/copyright
+ef931a364f24c5fb01005426a00a3e19  usr/share/lintian/overrides/libavcodec54

@@ -1,0 +1,14 @@
+16ea83ec472ed53a4e9ea06ccf56487a  usr/bin/intel-virtual-output
+2d0dba5f70a44c9def4a182079ee2ba7  usr/lib/libI810XvMC.so.1.0.0
+30d22e21586c4900061dc75c863cc390  usr/lib/libIntelXvMC.so.1.0.0
+25565c0664ec27c6814bd6ef90e9e560  usr/lib/xorg/modules/drivers/intel_drv.so
+9fa330077cf46539c505a57f9cb3ab9f  usr/lib/xserver-xorg-video-intel-lts-vivid/xf86-video-intel-backlight-helper
+bd3f43f026d38c75632adbcbe4d9ad3d  usr/share/doc/xserver-xorg-video-intel-lts-vivid/NEWS.gz
+2d73513b62fc52220c1c2adb921e0717  usr/share/doc/xserver-xorg-video-intel-lts-vivid/README
+238112d3c9d2e3d6226c83f5cc570352  usr/share/doc/xserver-xorg-video-intel-lts-vivid/README.Debian
+e2fbe0475a168f7a61f8d59c9004df89  usr/share/doc/xserver-xorg-video-intel-lts-vivid/changelog.Debian.gz
+08fe91f4eaa98fc57322dd15491b3e9e  usr/share/doc/xserver-xorg-video-intel-lts-vivid/copyright
+c978eead6751d25c1607405fa3598146  usr/share/lintian/overrides/xserver-xorg-video-intel-lts-vivid
+91def31117c31bf5564727f55fda72ee  usr/share/man/man4/intel-virtual-output.4.gz
+0a4f5ac8a80804c432a28b111f868fd2  usr/share/man/man4/intel.4.gz
+8d34789b054e2e1cd6888dc95154487a  usr/share/polkit-1/actions/org.x.xf86-video-intel.backlight-helper.policy
